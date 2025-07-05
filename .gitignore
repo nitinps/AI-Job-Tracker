@@ -1,5 +1,4 @@
 node_modules/
-.env
+*.env
 job-tracker-frontend/node_modules/
 job-tracker-backend/node_modules/
-openai-key.env
